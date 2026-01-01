@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b6ff6d3c-4ec6-49ab-90ec-493282762564" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../01_for_my_logic/.idea/01_for_my_logic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_for_my_logic/103_pro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter 3/01_tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter 3/02_problem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter 5/.idea/chapter 6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter1/problem1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter1/problem2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter1/problem3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter2/01_varirables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter2/02_datatypes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter2/03_str_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter2/04_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter2/06_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter2/07_tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/1st.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="3344Zh8Goc1RJQpc1SaFvW1lCvy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "new-feature"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="data stucture" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-82724e2b1abb-e2d783800521-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.28293.52" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6ff6d3c-4ec6-49ab-90ec-493282762564" name="Changes" comment="" />
+      <created>1758563070053</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758563070053</updated>
+    </task>
+    <servers />
+  </component>
+</project>
